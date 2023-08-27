@@ -7,3 +7,5 @@ Game Features:
 - Leaderboard function, compete with other players.
 - Exercise your brain and hand speed.
 Come and download it now!
+
+Contact email: brotherteamstudy@hotmail.com
